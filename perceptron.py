@@ -53,6 +53,3 @@ class perceptron(object):
 
 	
 
-a = perceptron()
-a.classificar()
-print(a.y)
